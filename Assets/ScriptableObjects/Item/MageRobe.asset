@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 26bacbba6105eba4582d8ddc3a48005d, type: 3}
-  m_Name: IronArmor
+  m_Name: MageRobe
   m_EditorClassIdentifier: 
-  id: 10
-  itemName: IronArmor
-  description: "\uADF8\uB0E5 \uCCA0\uAC11\uC637\uC774\uB2E4."
+  id: 11
+  itemName: MageRobe
+  description: 
   icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   attackBonus: 0
   defenseBonus: 5
-  criticalBonus: 0
-  hpBonus: 100
+  criticalBonus: 7
+  hpBonus: 30
   slot: 0
