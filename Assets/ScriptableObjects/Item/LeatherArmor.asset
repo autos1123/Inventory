@@ -20,4 +20,4 @@ MonoBehaviour:
   defenseBonus: 5
   criticalBonus: 6
   hpBonus: 40
-  slot: 0
+  slot: 1
