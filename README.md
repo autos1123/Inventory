@@ -66,13 +66,18 @@ UIStatusPanel의 SetCharacter(character) 호출로 캐릭터 연동
 캐릭터의 OnStatusChanged 이벤트를 통해 실시간 반영됨
 
 ## 📐 UI 예시
+
+![image](https://github.com/user-attachments/assets/ff251088-8803-447c-993c-364126bff928)
+
 인벤토리: ScrollView + GridLayoutGroup
 
 Spacing, Padding 조절로 정렬
 
+
+![image](https://github.com/user-attachments/assets/b0b96376-e0b2-4cdb-bbca-3a9c5f05b57d)
+
 슬롯: 아이콘 + 이름 + "장착/해제" 버튼 + 테두리(Outline)
 
-<!-- 예시 이미지 사용 시 -->
 
 ## ⚔️ 장비 시스템 특징
 동일한 슬롯에 이미 장착 중인 아이템이 있으면 자동 해제 후 새 장착
